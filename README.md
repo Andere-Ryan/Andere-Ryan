@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently Exploring real-world datasets and developing my skills in machine learning, data analysis, and data visualization. I’m working on projects to understand trends, patterns, and how data can inform better decisions.<br>👯 I’m looking to Contribute to open-source projects related to data science, machine learning, and AI. I’m eager to collaborate with others to solve complex problems and learn from experienced professionals.
+
 <br>🤝 I’m looking for help Improving my knowledge in deep learning and advanced machine learning algorithms. I'm also keen to learn best practices for deploying machine learning models into production environments.
+
 <br>📚 I am currently learning: 
 - Advanced machine learning techniques (XGBoost, Random Forest, SVM)
 - Data preprocessing and feature engineering
@@ -9,7 +11,9 @@
 - Data wrangling and cleaning techniques
 - Machine learning algorithms (e.g., regression, classification, clustering)
 - Tools like Python, pandas, scikit-learn, and Jupyter notebooks
-- How I approach problem-solving with data<br>⚡ Fun fact I am building a recommendation system for my favorite movie genre just to predict what I should watch next! 🎥📊 
+- How I approach problem-solving with data
+
+<br>⚡ Fun fact I am building a recommendation system for my favorite movie genre just to predict what I should watch next! 🎥📊 
 
 
 ## 🌐 Socials:
